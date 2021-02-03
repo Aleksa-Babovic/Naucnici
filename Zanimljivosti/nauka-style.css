@@ -19,7 +19,9 @@ body {
 	float: left;
 	margin-left: 150px;
 	padding: 20px;
+	padding-bottom: 100%;
 }
+
  .glavnitext {
  }
 
@@ -44,8 +46,8 @@ body {
 	font-size: 17px;
 }
 .topnav a:hover {
-	background-color: #ff0000;
-	color: white;
+	background-color: white;
+	color: black;
 
 }
 .topnav a:actve {

@@ -2,7 +2,7 @@ body {
 	background-image: url("background 2.jpg");
 }
 .uvod {
-	background-color: white;
+	background-color: black;
 }
 
 .naslov {
@@ -13,17 +13,14 @@ body {
 .opis {padding-left: 15px;}
 
 .centar {
-	background-color: white;
+	background-color: #ffff99;
 	width: 900px;
 	height: 800px;
 	float: left;
-	margin-top: 20px;
-	border-radius: 8px; 
 	margin-left: 150px;
 	padding: 20px;
 }
  .glavnitext {
- 	color: #0066ff;
  }
 
 .social {
@@ -35,25 +32,25 @@ body {
 }
 
 .topnav {
-	background-color: white;
+	background-color: black;
 	overflow: hidden
 }
 .topnav a {
 	float: left;
-	color: #000000;
+	color: white;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 17px;
 }
 .topnav a:hover {
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
 
 }
 .topnav a:actve {
-	background-color: white;
-	color: black;
+	background-color: black;
+	color: white;
 
 }
 
